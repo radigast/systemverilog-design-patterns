@@ -16,6 +16,6 @@ irun \
     ModelDuck.sv \
     MiniDuckSimulator.sv
 
-echo "Cadence cannot handle class interface at this time"
+
 
 # +define+PREFERRED \
